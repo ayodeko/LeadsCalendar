@@ -14,7 +14,7 @@ We encourage developers and users to provide feedback on their experience with L
 
 **Stay Informed and Involved:**
 
-- Visit our [GitHub repository](https://github.com/LeadsCalendar) to contribute to the project or report any issues.
+- Visit our [GitHub repository](https://github.com/ayodeko/LeadsCalendar) to contribute to the project or report any issues.
 - Check the official API documentation for Google Calendar, PayPal, and Binance Pay regularly for the latest updates.
 - Engage with our community on forums and social media to discuss features and share ideas.
 
